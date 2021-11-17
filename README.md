@@ -6,8 +6,8 @@ Basil and Sadhana like how you created your earthquake map with two different ma
 
 ## Results
 
-![All (png)](./earhquake_Challenge/statics/images/all_things.png)
+![All (png)](./earthquake_Challenge/statics/images/all_things.png)
 **All Map Info**
 
-![Dark (png)](./earhquake_Challenge/statics/images/dark_map.png)
+![Dark (png)](./earthquake_Challenge/statics/images/dark_map.png)
 **Third Map Layer, Dark**
